@@ -1,0 +1,66 @@
+﻿body {
+    font-family: Arial;
+    background-color: #3eb4aa;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+
+
+
+#form1 {
+    background: white;
+    border: 0 none;
+    border-radius: 3px;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.2);
+    padding: 20px 30px;
+    box-sizing: border-box;
+    margin:2%;
+    margin-top: 0;
+    position: relative;
+    
+}
+
+input.textbox {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: Arial;
+    color: #2c3e50;
+    font-size: 14pt;
+    outline-color: #39b3a9;
+}
+
+.label {
+    font-size: 24px;
+    font-weight: lighter;
+}
+
+/*Gridview style*/
+
+.gridStyle {
+    font-size:14pt;
+    font-weight: normal;
+    width: 100% !important;
+
+}
+
+.rows{
+
+}
+
+.gridHeader{
+
+}
+
+.ddList{
+    width: 100%;
+    font-size: 14pt;
+}
+
+.checkbox {
+
+}
